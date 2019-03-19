@@ -1,0 +1,8 @@
+#surefire
+#Sat Mar 16 02:00:18 COT 2019
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\tegui\\OneDrive\\Documentos\\NetBeansProjects\\PruebasUnitarias
+file.encoding=UTF-8
+localRepository=C\:\\Users\\tegui\\.m2\\repository
+basedir=C\:\\Users\\tegui\\OneDrive\\Documentos\\NetBeansProjects\\PruebasUnitarias
+test=Test.NewEmptyJUnitTest
